@@ -18,10 +18,4 @@ func main() {
 	fmt.Println(string(s))
 	fmt.Printf("dfsdfdsf %s", string(s))
 	fmt.Printf("edewdwed")
-<<<<<<< HEAD
-	fmt.Printf("edewdwed")
-	fmt.Printf("edewdwed")
-
-=======
->>>>>>> Develop
 }
