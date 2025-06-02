@@ -21,5 +21,5 @@ func main() {
 }
 
 func AplusB() int {
-	return 1 + 1
+	return 5 + 5
 }
