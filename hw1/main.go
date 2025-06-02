@@ -34,4 +34,6 @@ func main() {
 
 	fmt.Println(string(s))
 	fmt.Printf("dfsdfdsf %s", string(s))
+	fmt.Printf("edewdwed")
+
 }
