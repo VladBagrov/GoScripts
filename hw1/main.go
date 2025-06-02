@@ -19,3 +19,7 @@ func main() {
 	fmt.Printf("dfsdfdsf %s", string(s))
 	fmt.Printf("edewdwed")
 }
+
+func AplusB() int {
+	return 1 + 1
+}
