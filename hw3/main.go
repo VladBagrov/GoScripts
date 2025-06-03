@@ -2,15 +2,17 @@ package main
 
 import "fmt"
 
-const (
-	w = 8
-	h = 8
-)
-
 func main() {
+	var w, h int
+	fmt.Println("Enter width desk:")
+	fmt.Scanf("%d\n", &w)
+
+	fmt.Println("Enter height desk:")
+	fmt.Scanf("%d\n", &h)
+
 	var r rune
-	for i := range w {
-		for j := range h {
+	for i := range h {
+		for j := range w {
 			r = what_r(i, j)
 			fmt.Print(string(r))
 		}
