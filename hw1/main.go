@@ -20,5 +20,5 @@ func main() {
 }
 
 func APlusB() int {
-	return 5 + 8
+	return 5 + 67
 }
